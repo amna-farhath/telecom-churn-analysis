@@ -1,4 +1,4 @@
-# 📉 Telecom Customer Churn Analysis & Prediction Dashboard
+# Telecom Customer Churn Analysis & Prediction 
 
 This project is a full data pipeline and business intelligence solution focused on understanding and predicting customer churn in the telecom industry. It involves **ETL operations, machine learning, and dynamic dashboarding** using:
 
